@@ -1,7 +1,7 @@
-# Team Members
+## Team Members
 
-* Abhishek Kumar Pandey (Team Representative)
-* Nishant Singh
-* Harshail Singh
-* Shubham Yadav
+1. Abhishek Kumar Pandey (Team Representative)
+2. [Nishant Singh](https://github.com/NishantSingh2802) 
+3. Harshail Singh
+4. Shubham Yadav
 
